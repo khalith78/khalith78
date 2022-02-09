@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mohamed Khalith
 - 😺 Github @khalith78
-- 👨‍💻 Wish to become Web Developer
-- 🌱 Currently learning Python 🐍 and 🕸 Web Development.
-- 💞 Looking to collaborate on DevOps.
+- 👨‍💻 Web Developer
+- 💞 Looking to collaborate on Web Development
 - 📫 You can reach me on anything @rskhalith78
 
 <!---
